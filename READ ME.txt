@@ -1,0 +1,10 @@
+===========---//INSTALASI SOURCE CODE\\---==============|
+							|
+-Ekstrak source code					|
+-Jika menggunakan xampp simpan folder pos-konter	|
+ ke dalam folder htdocs					|
+-Buat database baru dengan nama db_poskonter		|
+-import file db_poskonter.sql yang ada di folder db 	|
+ ke dalam database yang dibuat tadi			|
+-Buka browser lalu jalankan dengan menuliskan 		|
+ localhost/pos-konter					|
